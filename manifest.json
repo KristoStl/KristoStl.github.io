@@ -11,6 +11,6 @@
           "src": "https://api.is-great.net/favicon.png",
           "sizes": "192x192",
           "type": "image/png"
-        },
-      ],
+        }
+      ]
     }
